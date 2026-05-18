@@ -7,7 +7,7 @@ export default function ProjectCard() {
         <a href="https://inventio-finance-dashboard.netlify.app/" target="_blank" rel="noopener noreferrer" className="group relative p-6 rounded-2xl border border-slate-800 bg-slate-900/50 transition-all hover:bg-slate-800/50 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10">
             <div className="flex flex-col sm:flex-row gap-6">
             <div className="w-full sm:w-32 h-20 bg-slate-800 rounded border border-slate-700 overflow-hidden">
-                <img src={"public/inventio.png"} />
+                <img src={"/inventio.png"} />
                 <div className="w-full h-full flex items-center justify-center text-[10px] text-slate-500 italic">Preview image</div>
             </div>
             <div className="flex-1">
@@ -35,7 +35,7 @@ export default function ProjectCard() {
         <a href="https://movie-appx.netlify.app/" target="_blank" rel="noopener noreferrer" className="group relative p-6 rounded-2xl border border-slate-800 bg-slate-900/50 transition-all hover:bg-slate-800/50 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10">
             <div className="flex flex-col sm:flex-row gap-6">
             <div className="w-full sm:w-32 h-20 bg-slate-800 rounded border border-slate-700 overflow-hidden">
-                <img src={"public/cineview.png"} />
+                <img src={"/cineview.png"} />
                 <div className="w-full h-full flex items-center justify-center text-[10px] text-slate-500 italic">Preview image</div>
             </div>
             <div className="flex-1">
@@ -63,7 +63,7 @@ export default function ProjectCard() {
         <a href="https://unique-pudding-8d4ca0.netlify.app/" target="_blank" rel="noopener noreferrer" className="group relative p-6 rounded-2xl border border-slate-800 bg-slate-900/50 transition-all hover:bg-slate-800/50 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10">
             <div className="flex flex-col sm:flex-row gap-6">
             <div className="w-full sm:w-32 h-20 bg-slate-800 rounded border border-slate-700 overflow-hidden">
-                <img src={"public/quizzly.png"} />
+                <img src={"/quizzly.png"} />
                 <div className="w-full h-full flex items-center justify-center text-[10px] text-slate-500 italic">Preview image</div>
             </div>
             <div className="flex-1">
