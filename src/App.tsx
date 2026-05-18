@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import Links from "./components/header/Links";
 import Menu from "./components/header/Menu";
-import AboutMe from "./components/main/Aboutme";
 import Skills from "./components/main/Skills";
 import Education from "./components/main/Education";
 import Projects from "./components/main/Projects";
+import AboutMe from "./components/main/AboutMe";
 
 export default function App() {
 
@@ -47,7 +47,7 @@ export default function App() {
           </main>
         </div>
 
-      </div>
+    </div>
     </div>
   );
 }

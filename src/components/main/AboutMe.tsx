@@ -1,5 +1,5 @@
 export default function AboutMe() {
-    
+
     return (
         <div className="flex flex-col gap-3">
             <p className="leading-relaxed text-lg">
