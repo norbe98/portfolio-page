@@ -2,7 +2,7 @@
 
 A clean, responsive, and performance-optimized portfolio website built to showcase my projects, skills, and professional journey as a developer.
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://norbert-szoke-portfolio.netlify.app/
 
 ---
 
